@@ -1,2 +1,3 @@
-# codeliving_onebitcode
- Aula para iniciar na programação.
+# Mini Curso One Bit Code
+
+Start na carreira de programação.
