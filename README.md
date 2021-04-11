@@ -1,3 +1,1 @@
-# Mini Curso One Bit Code
-
-Start na carreira de programação.
+![Caption](https://files.cercomp.ufg.br/weby/up/342/o/em_construcao.jpg)
