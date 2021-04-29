@@ -8,10 +8,10 @@ A partir do minicurso `Domine a base da web`, aprendi a codar a [Calculadora de 
 <em>Aula 1 • Entendendo o HTML 5</em>  
 HTML é a base para criarmos páginas Web. Nessa aula você vai aprender quais são seus principais elementos e como criar um projeto prático com ele.
 
-<u>Aula 2 • Entendendo o CSS 3</u>  
+<em>Aula 2 • Entendendo o CSS 3</em>  
 O CSS é o que nos permite deixar nossas páginas bonitas e mais funcionais. Nessa aula você vai aprender a base do CSS e como estilizar o nosso projeto prático.
 
-<u>Aula 3 • Entendendo o JS</u>  
+<em>Aula 3 • Entendendo o JS</em>  
 Com o JavaScript nós conseguimos deixar nossas páginas dinâmicas (reagindo ao que o usuário digita, a posição do mouse e etc).
 
 # Linguagens Utilizadas
